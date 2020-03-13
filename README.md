@@ -1,12 +1,8 @@
 # gocov
 
-Coverage reporting tool for The Go Programming Language
-
-[![Build Status](https://travis-ci.org/axw/gocov.svg?branch=master)](https://travis-ci.org/axw/gocov)
-
 ## Installation
 
-```go get github.com/axw/gocov/gocov```
+```go get github.com/darimuri/gocov/gocov```
 
 ## Usage
 
